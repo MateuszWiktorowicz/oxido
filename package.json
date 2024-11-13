@@ -1,0 +1,15 @@
+{
+  "name": "oxido-ai-project",
+  "version": "1.0.0",
+  "description": "Projekt do przetwarzania artykułów z użyciem OpenAI",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.mjs"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "openai": "^4.72.0"
+  }
+}

@@ -1,0 +1,8 @@
+# Ignorowanie pliku .env, który zawiera dane wrażliwe
+.env
+
+# Ignorowanie folderów node_modules (zależności Node.js)
+node_modules/
+
+# Ignorowanie plików logów
+*.log
